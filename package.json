@@ -1,0 +1,14 @@
+{
+  "name": "n8n-braip",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx n8n",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "n8n": "^1.45.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  }
+}
